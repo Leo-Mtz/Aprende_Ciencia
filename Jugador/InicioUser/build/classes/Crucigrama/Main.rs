@@ -1,0 +1,15 @@
+crucigrama.Main$1
+crucigrama.Main$2
+crucigrama.Main$9
+crucigrama.Main$7
+crucigrama.Main$8
+crucigrama.Main$5
+crucigrama.Main$6
+crucigrama.Main$3
+crucigrama.Main$4
+crucigrama.Main$14
+crucigrama.Main$13
+crucigrama.Main$12
+crucigrama.Main$11
+crucigrama.Main$10
+crucigrama.Main
